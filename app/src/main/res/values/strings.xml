@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HalamanLogin</string>
+    <string name="hint_username">Masukkan username</string>
+    <string name="hint_password">Masukkan password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_logout">Keluar</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="welcome_text">Selamat Datang!</string>
+    <string name="page_title">Halaman Utama</string>
+    <string name="error_username_empty">Username tidak boleh kosong</string>
+    <string name="error_password_empty">Password tidak boleh kosong</string>
+    <string name="error_login_failed">Username atau password salah!</string>
+</resources>
